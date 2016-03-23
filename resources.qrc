@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Button.qml</file>
+        <file>qml/Checkbox.qml</file>
+        <file>qml/EndScreen.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/PlayerSprite.qml</file>
+        <file>qml/StartScreen.qml</file>
+        <file>sprites/starfield.jpg</file>
+        <file>sprites/star.png</file>
+        <file>sprites/players/player0.png</file>
+        <file>sprites/players/player1.png</file>
+        <file>sprites/players/player2.png</file>
+        <file>sprites/players/player3.png</file>
+        <file>qml/MissileSprite.qml</file>
+        <file>Aldrich_Regular.ttf</file>
+        <file>sprites/missile-empty.png</file>
+        <file>sprites/missile-full.png</file>
+        <file>sprites/missile-half.png</file>
+        <file>sprites/turnon.png</file>
+        <file>sprites/sun.png</file>
+    </qresource>
+</RCC>
